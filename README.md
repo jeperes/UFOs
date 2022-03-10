@@ -1,10 +1,18 @@
 # UFOs
-# Overview of Project
+# Overview
+The purpose of this project was build a table using data stored in a JavaScript array and create filters to make this table fully dynamic using HTML. 
 
+# Software
 
+Software: 
+- HTML/CSS 
+- JavaScript
+- Visual Studio Code
+- BootStrap 
 
-# Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+# Results
 
+The result is a webpage with a description and and a search box that allow users to chose date, city, state, country and shape. 
 
 
 # Summary:
