@@ -20,5 +20,5 @@ The result is a webpage with a description and and a search box that allow users
 
 # Summary:
 
-One drawback in the website is the search parameter, before do your search you have to check the table and see which parameter is available to search. 
+One drawback in the website is the search parameter, before do your search you have to go through the table to find the parameter desired. 
 A dropdown list would be ideal so the users would see what cities are available to search, for exemple. 
